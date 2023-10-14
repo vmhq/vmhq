@@ -1,7 +1,17 @@
-- 👋 Hi, I’m @vmhq
-- 👀 I’m interested in tech, AI and new gadgets.
-- 🌱 I’m currently learning python
-- 📫 How to reach me vicente@vmhq.cl
+# Hola, soy Vicente 👋
+
+Soy de Santiago de Chile. Me fascina explorar la intersección entre la psicología, la tecnología y la inteligencia artificial. 🤖
+
+## Algunas cosas sobre mí:
+
+- 🎓 Psicólogo de profesión.
+- 📍 Residiendo en Santiago de Chile.
+- 💼 Actualmente explorando en la progrmación, por lo que estoy aprendiendo Python. 
+- 🚀 Interesado en ciencia ficción y tecnología en general.
+
+## Contacto
+
+Me e¡ubicas en el siguiente 📧 vicente@vmhq.cl
 
 <!---
 vmhq/vmhq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
