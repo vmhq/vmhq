@@ -1,12 +1,12 @@
-# Hola, soy Vicente 👋
+# Hola 👋
 
-Soy de Santiago de Chile. Me fascina explorar la intersección entre la psicología, la tecnología y la inteligencia artificial. 🤖
+De Santiago de Chile. Me interesa la psicología, la tecnología, la inteligencia artificial y la ciencia ficción. 🤖
 
 ## Algunas cosas sobre mí:
 
 - 🎓 Psicólogo de profesión.
 - 📍 Residiendo en Santiago de Chile.
-- 💼 Actualmente explorando en la progrmación, por lo que estoy aprendiendo Python. 
+- 💼 Actualmente explorando en la programación. Actualmente estoy aprendiendo Python. 
 - 🚀 Interesado en ciencia ficción y tecnología en general.
 
 ## Contacto
