@@ -11,7 +11,7 @@ Soy de Santiago de Chile. Me fascina explorar la intersección entre la psicolog
 
 ## Contacto
 
-Me e¡ubicas en el siguiente 📧 vicente@vmhq.cl
+Me puedes ubicar en el siguiente 📧 vicente@vmhq.cl
 
 <!---
 vmhq/vmhq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
