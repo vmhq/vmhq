@@ -4,7 +4,7 @@ De Santiago de Chile. Me interesa la psicología, la tecnología, la inteligenci
 
 ## Algunas cosas sobre mí:
 
-- 🎓 Psicólogo de profesión.
+- 🎓 Psicólogo.
 - 📍 Residiendo en Santiago de Chile.
 - 💼 Actualmente explorando en la programación. Actualmente estoy aprendiendo Python. 
 - 🚀 Interesado en ciencia ficción y tecnología en general.
