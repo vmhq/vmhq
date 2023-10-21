@@ -11,7 +11,7 @@ De Santiago de Chile. Me interesa la psicología, la tecnología, la inteligenci
 
 ## Contacto
 
-Me puedes ubicar en el siguiente 📧 vicente@vmhq.cl
+Me puedes ubicar en el siguiente 📧 vicentem@vmhq.cl
 
 <!---
 vmhq/vmhq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
